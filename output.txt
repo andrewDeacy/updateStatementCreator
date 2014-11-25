@@ -1,0 +1,7 @@
+Update tblTest
+Set Value1 =  2
+Where TestData = 1111
+or TestData = 3333
+or TestData = 4444
+or TestData = 5555
+or TestData = 6666
