@@ -1,7 +1,18 @@
-Update tblTest
-Set Value1 =  2
-Where TestData = 1111
-or TestData = 3333
-or TestData = 4444
-or TestData = 5555
-or TestData = 6666
+Update tblPallet
+Set whseLocID = 6002001000
+Where palletKey = 7726718
+or palletKey = 7726719
+or palletKey = 7726869
+or palletKey = 7726870
+or palletKey = 7726871
+or palletKey = 7704783
+or palletKey = 7704885
+or palletKey = 7704931
+or palletKey = 7706608
+or palletKey = 7726720
+or palletKey = 7726721
+or palletKey = 7726722
+or palletKey = 7726867
+or palletKey = 7726868
+or palletKey = 7727716
+or palletKey = 7728368
